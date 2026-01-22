@@ -172,6 +172,9 @@ User-based UI personalization
 Combining Sessions & Cookies
 Theme persistence logic
 Secure dashboard protection
+<img width="2258" height="1241" alt="Screenshot 2026-01-22 145225" src="https://github.com/user-attachments/assets/ce447d95-c559-4d99-8734-d40e15bf1c1e" />
+
+<img width="2547" height="843" alt="Screenshot 2026-01-22 143720" src="https://github.com/user-attachments/assets/bc56c86e-aa91-4d6d-8cc3-4f14fd783bd6" />
 
 <img width="2545" height="1515" alt="Screenshot 2026-01-22 143655" src="https://github.com/user-attachments/assets/88a37bbb-2c8c-4157-96c6-f035cde65fc1" />
 
